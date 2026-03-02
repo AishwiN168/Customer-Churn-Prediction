@@ -16,6 +16,8 @@ Analyze customer data
 Identify churn patterns
 Build a predictive classification model
 Evaluate performance using standard ML metrics
+
+
 📊 Dataset Description
 The dataset contains:
 
@@ -28,6 +30,8 @@ Target Variable:
 0 → Customer Retained
 1 → Customer Churned
 ⚙️ Machine Learning Workflow
+
+
 1️⃣ Data Preprocessing
 Handling missing values
 Encoding categorical features
@@ -40,6 +44,8 @@ Class imbalance analysis
 Algorithm used includes:
 
 Logistic Regression
+
+
 4️⃣ Model Evaluation
 Metrics used:
 
@@ -56,6 +62,8 @@ git clone https://github.com/AishwiN168/customer-churn-prediction.git
 Open the Jupyter Notebook:
 
 jupyter notebook notebooks/churn_analysis.ipynb
+
+
 🛠 Technologies Used
 Python
 Pandas
@@ -64,6 +72,8 @@ Scikit-learn
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+
 📈 Business Impact
 Using churn prediction, businesses can:
 
@@ -80,5 +90,7 @@ Handling class imbalance using SMOTE
 Model deployment using Flask or FastAPI
 Real-time prediction API
 Interactive dashboard integration
+
+
 📜 License
 This project is open-source and available under the MIT License.
